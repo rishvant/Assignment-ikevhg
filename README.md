@@ -12,8 +12,8 @@ This is a Node.js application for uploading and encrypting files. The uploaded f
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/rishvant/Assignment-ikevhg.git
+   cd Assignment-ikevhg
 
 2. **Start the server:**
    ```sh
